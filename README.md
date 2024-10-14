@@ -1,5 +1,5 @@
 # dll-hijacking-c
-Demonstration of how dll hijacking works in C
+Demonstration of how dll hijacking works in windows using C and win32 API
 
 
 -DLLs are callable subroutines linked together as a binary file that can be dynamically loaded by applications that use the subroutines. (from "Windows Internals, Part 1" book)
