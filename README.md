@@ -21,7 +21,7 @@ Demonstration of how dll hijacking works in C
 
 -Basically, main.exe tries to load a dll called legitimate.dll into memory and it fails to get a handle to the dll.
 
--What are we going to do now is to compile the dll code and move it to a path where the main.exe process tries to load the dll.
+-What are we going to do now is compile the dll code and move it to a path where the main.exe process tries to load the dll.
 
 -I'll move it to C:/Windows/
 
