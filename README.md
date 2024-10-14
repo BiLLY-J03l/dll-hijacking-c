@@ -2,7 +2,7 @@
 Demonstration of how dll hijacking works in C
 
 
--DLLs are callable subroutines linked together as a binary file that can be dynamically loaded by applications that use the subroutines. (from Windows Internals, Part 1 book)
+-DLLs are callable subroutines linked together as a binary file that can be dynamically loaded by applications that use the subroutines. (from "Windows Internals, Part 1" book)
 
 -an .exe file is written to load a specific dll called legitimate.dll.
 
