@@ -38,3 +38,8 @@ Demonstration of how dll hijacking works in C
 ![image](https://github.com/user-attachments/assets/12ddd5e5-eb2b-4271-a0cf-c933018c0a17)
 
 
+-How dll hijacking works in real life?
+
+-the attacker picks a certain .exe in and tries hijacking different DLLs till he/she finds a successful one.
+
+
